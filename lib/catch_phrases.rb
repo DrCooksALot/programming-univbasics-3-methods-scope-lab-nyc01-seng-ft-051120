@@ -10,3 +10,5 @@ end
 
 def link
   phrase = "It's Dangerous to Go Alone! Take this."
+  puts phrase
+end
